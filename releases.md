@@ -10,6 +10,10 @@ dateCreated: 2020-02-23T08:22:11.535Z
 
 # Release Notes
 This is an archive of releases. The ```ChangeLog.md``` is included and updated in the project's git repo.
+# v1.7.0
+> In development
+{.is-warning}
+
 # v1.6.0
 > Released on December 21, 2021
 {.is-info}
